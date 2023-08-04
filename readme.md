@@ -37,23 +37,23 @@ python Assignment446
 
 #### Assignment44-1
 
-![preview image](/Output/FaceMorphing.jpg)
+![preview image](FaceMorphing.jpg)
 
 #### Assignment44-2
 
-![preview image](/Output/BlackHole.jpg)
+![preview image](BlackHole.jpg)
 
 #### Assignment44-3
 
-![preview image](/Output/sketchphotoemily.jpg)
+![preview image](sketchphotoemily.jpg)
 
 #### Assignment44-4
-![preview image](/Output/Secretsentence.webp)
+![preview image](Secretsentence.webp)
 
 #### Assignment44-5
 
-![preview image](/Output/empty_road.jpg)
+![preview image](empty_road.jpg)
 
 
 #### Assignment44-6
-![preview image](/Output/result446.jpg)
+![preview image](result446.jpg)
